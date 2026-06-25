@@ -1,0 +1,21 @@
+PÁGINA DE VENDA - KIT PEQUENOS CRISTÃOS
+
+Arquivo principal:
+- index.html
+
+Como hospedar:
+1. Envie o arquivo index.html para Netlify, Vercel, GitHub Pages ou uma hospedagem paga.
+2. Se usar hospedagem com cPanel/Hostinger, coloque o arquivo dentro da pasta public_html.
+3. Abra o domínio e teste a página no celular e no computador.
+
+IMPORTANTE:
+- O botão de compra ainda está com href="#".
+- Troque esse # pelo link real do checkout antes de anunciar.
+- As imagens estão hospedadas online. Se algum link externo sair do ar, será necessário substituir a imagem.
+
+Checklist antes de vender/anunciar:
+[ ] Link do checkout configurado
+[ ] Imagens carregando corretamente
+[ ] Página testada no celular
+[ ] Domínio com https ativo
+[ ] Preço e garantia conferidos

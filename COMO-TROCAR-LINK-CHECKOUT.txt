@@ -1,0 +1,10 @@
+COMO TROCAR O LINK DO CHECKOUT
+
+1. Abra o arquivo index.html em um editor de texto.
+2. Procure por: href="#"
+3. Substitua o # pelo link do checkout.
+
+Exemplo:
+href="https://seu-checkout.com/produto"
+
+Depois salve o arquivo e envie novamente para a hospedagem.
